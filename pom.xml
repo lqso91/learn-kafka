@@ -6,7 +6,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>cn.lqso</groupId>
-    <artifactId>learn-kafka</artifactId>
+    <artifactId>x-kafka</artifactId>
     <packaging>jar</packaging>
     <version>1.0-SNAPSHOT</version>
 
